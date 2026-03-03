@@ -40,13 +40,7 @@
 
 @layer utilities {
     .bg-hero {
-        background-image: url('/assets/aire.jpg');
-    }
-
-    @media (min-width: 2700px) {
-        .bg-hero {
-            background-image: url('/assets/logobanana.png');
-        }
+        background-image: url('../assets/aire.jpg');
     }
 }
 
